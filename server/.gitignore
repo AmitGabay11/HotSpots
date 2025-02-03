@@ -1,0 +1,11 @@
+# Ignore environment files
+.env
+
+# Node modules
+node_modules/
+
+# Compiled TypeScript
+dist/
+
+# Logs
+*.log
